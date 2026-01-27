@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 25 Jan 2026 16:07:36 at https://ewedinvite.site/THIEPMAUCOBAN +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://ewedinvite.site/THIEPMAUCOBAN -O1 "F:\project\ewedinvite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:07:52	Error: 	"error:00000005:lib(0):func(0):DH lib" (-5) after 2 retries at link https://ewedinvite.site/robots.txt (from primary/primary)
+16:09:58	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://content.pancake.vn/1/s300x300/fwebp/12/18/c3/5f/46928cd6705520a982f6e46506c591412d8e12315addc7f1a7d43b69-w:966-h:644-l:67295-t:image/jpeg.jpg (from https://ewedinvite.site/THIEPMAUCOBAN)
+16:09:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://content.pancake.vn/web-media/ba/c9/4b/24/84ae78afd952235a6810cde46e51ca2a384ff16ca11cc946f7b0dfc9-w:966-h:1449-l:129939-t:image/jpeg.jpg (from https://ewedinvite.site/THIEPMAUCOBAN)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 23 seconds : 20 links scanned, 16 files written (1895183 bytes overall) [1192534 bytes received at 8339 bytes/sec], 921610 bytes transferred using HTTP compression in 6 files, ratio 22%, 1.5 requests per connection
+(1 errors, 2 warnings, 0 messages)
